@@ -2,7 +2,7 @@
 # TU Dresden corporate design classes tudscr by Falk Hanisch
 
 pkgname=texlive-tudscr
-pkgver=1
+pkgver=1.0
 pkgrel=1
 pkgdesc="TeX Live - TU Dresden corporate design classes tudscr by Falk Hanisch"
 license=('unknown')
